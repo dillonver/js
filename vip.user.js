@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         腾讯\优酷\爱奇艺 VIP破解
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/dillonver/js/blob/master/vip.user.js
 // @version      1.0
 // @description  一键破解[优酷|腾讯|乐视|爱奇艺|芒果|AB站|音悦台]等VIP或会员收费视频。
 // @author       Dillon
